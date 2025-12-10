@@ -1,0 +1,5 @@
+{
+  "name": "ClubSync",
+  "description": "A comprehensive task and attendance management system for college clubs and departments, featuring Kanban task boards, attendance tracking, and AI-powered insights.",
+  "requestFramePermissions": []
+}
